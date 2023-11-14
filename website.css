@@ -1,0 +1,93 @@
+.Contact {
+  background-color: rgb(57, 204, 204);
+  color: whitesmoke;
+  border: black;
+  border-style: solid;
+  border-width: 2px;
+  height: 30px;
+  border-radius: 7px;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 17px;
+  margin-right: 10px;
+  margin-top: 5px
+}
+
+.Contact:hover {
+  background-color: rgb(47, 172, 172);
+}
+
+.Performances {
+  background-color: rgb(214, 54, 135);
+  color: whitesmoke;
+  border: black;
+  border-style: solid;
+  border-width: 2px;
+  height: 30px;
+  border-radius: 7px;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 17px;
+  margin-right: 10px;
+  margin-top: 5px;
+}
+
+.Performances:hover {
+  background-color: rgb(183, 40, 111);
+}
+
+.Media {
+  background-color: rgb(243, 117, 97);
+  color: whitesmoke;
+  border: black;
+  border-style: solid;
+  border-width: 2px;
+  height: 30px;
+  border-radius: 7px;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 17px;
+  margin-top: 5px;
+}
+
+.Media:hover {
+  background-color: rgb(229, 100, 80);
+}
+
+body {
+  background-color: rgb(8, 11, 18);
+  color: whitesmoke;
+  font-family: sans-serif;
+  cursor: default;
+  text-align: start;
+  margin: 15px;
+  margin-left: 20px;
+}
+
+a:link {
+  color: whitesmoke;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: whitesmoke;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(239, 239, 239);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:active {
+  color: rgb(255, 255, 255);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.title {
+  margin-top: 30px;
+}

@@ -1,0 +1,43 @@
+body {
+  background-color: rgb(8, 11, 18);
+  color: whitesmoke;
+  font-family: sans-serif;
+  cursor: default;
+  text-align: start;
+  margin: 20px;
+}
+
+body {
+  background-color: rgb(8, 11, 18);
+  color: whitesmoke;
+  font-family: sans-serif;
+  cursor: default;
+  text-align: start;
+  margin: 20px;
+}
+
+a:link {
+  color: whitesmoke;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: whitesmoke;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(239, 239, 239);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:active {
+  color: rgb(255, 255, 255);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.photo1{width:300px;}
