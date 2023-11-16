@@ -39,6 +39,9 @@ a:active {
   background-color: transparent;
   text-decoration: none;
 }
-
+.container{
+  width: 368px;
+  height: 207px;
+}
 .photo1{width:300px;}
 .photo2{width:300px;}
